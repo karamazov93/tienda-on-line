@@ -1,5 +1,5 @@
 import { useCartContext } from "../../context/CartContext/useCartContext"
-import { Count } from "../count/count"
+import { Count } from "../Count/Count"
 import { Item } from "../Item/Item"
 
 export const ItemDetail = ({detail}) => {
