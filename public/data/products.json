@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "reloj de oro",
+    "price": 4500,
+    "category": "time",
+    "description": "minutos.",
+    "imageURL": "/images/time-9839453_1280.jpg"
+  },
+  {
+    "id": "2",
+    "name": "caballero de la Noche",
+    "price": 3200,
+    "category": "fuerte",
+    "description": "caballero de las tinieblas.",
+    "imageURL": "/images/knight-9765068_1280.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Toni",
+    "category": "dulce",
+    "price": 1200,
+    "description": "un gato amoroso.",
+    "imageURL": "/images/cat-9421720_1280.jpg"
+  }
+]
