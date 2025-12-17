@@ -1,0 +1,29 @@
+.btn:hover{
+    background: #79b6ff;
+}
+
+.btn:active{
+    transform: translateY(1px);
+}
+
+.btn:disabled{
+opacity: 0.6;
+cursor:not-allowed;
+}
+
+
+
+
+
+.cami{
+    background-color:blue;
+    display:flex;
+    flex-direction:column;
+    justify-content:center ;
+    left: 10px;
+    align-items: center;
+    color:aqua;
+    gap:50px;
+    border-radius: 20px;
+    
+}
