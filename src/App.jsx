@@ -23,7 +23,7 @@ function App() {
 
   <Routes>
     <Route element={<MainLayout/>}>
-{/* rutas publicas */}
+
     <Route path="/" element={<ItemListContainer titulo={"trabajo practico"}/>} />
     <Route path="/category/:category" element={<ItemListContainer titulo={"trabajo practico"}/>} />
     <Route path="/detail/:id"  element={<ItemDetailContainer/> } />
